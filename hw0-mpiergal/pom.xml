@@ -4,7 +4,7 @@
 	<artifactId>hw0-mpiergal</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<url>scm:git:git://github.com/MarioPiergallini/hw0-mpiergal.git</url>
+		<url>scm:git:https://github.com/MarioPiergallini/hw0-mpiergal.git</url>
 		<connection>scm:git:git://github.com/MarioPiergallini/hw0-mpiergal.git</connection>
 		<developerConnection>scm:git:git://github.com/MarioPiergallini/hw0-mpiergal.git</developerConnection>
 	</scm>
